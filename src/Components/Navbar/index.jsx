@@ -18,7 +18,7 @@ const Navbar = () => {
         className="bg-blue-900 border-gray-200 dark:bg-gray-900 px-6 sm:px-0 md:px-0 lg:px-0"
       >
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-2 lg:p-4">
-          <h1 className="flex text-red-600 font-bold text-2xl gap-1  lg:text-2xl text-lg ">
+          <h1 className="flex text-red-600 font-bold text-2xl gap-1  ">
             <h1 className="text-white font-bold">Layanan</h1>Ambulance
             <h1 className="text-white font-bold text-2xl">Jogja</h1>
           </h1>
@@ -48,12 +48,12 @@ const Navbar = () => {
             </svg>
           </button>
           {navbarOpen && (
-            <div className="flex  justify-center">
+            <div className="flex ">
               <ul className="font-medium align-items-center justify-center bg-blue-900 flex  md:p-0 mt-4 border border-gray-100 rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-red dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
                 <li>
                   <a
                     href="#"
-                    className="block py-2 px-3 text-red-500 ounded md:bg-transparent md:text-red-700 md:p-0 dark:text-white md:dark:text-white"
+                    className="block py-2  text-red-500 ounded md:bg-transparent md:text-red-700 md:p-0 dark:text-white md:dark:text-white"
                     aria-current="page"
                   >
                     Home
