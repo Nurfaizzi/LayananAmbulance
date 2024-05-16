@@ -12,7 +12,7 @@ import Contac from './Components/Contac'
 function App() {
 
   return (
-    <div className='scroll-smooth focus:scroll-auto'>
+    <div className=' overflow-x-hidden'>
     <Navbar />
     <Banner/>
     <WhyUs />
