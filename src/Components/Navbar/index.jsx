@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-2 lg:p-4">
           <h1 className="flex text-red-600 font-bold lg:text-2xl gap-1 text-lg  ">
             <h1 className="text-white font-bold">Layanan</h1>Ambulance
-            <h1 className="text-white font-bold text-2xl">Jogja</h1>
+            <h1 className="text-white font-bold ">Jogja</h1>
           </h1>
           <button
             onClick={handleHumberger}

@@ -30,7 +30,7 @@ const About = () => {
           <h1 className="mb-2 text-2xl font-bold tracking-tight  dark:text-white justify-center text-center text-black">
             Tentang Kami
           </h1>
-          <p className=" font-bold  dark:text-gray-400 text-black mb-4 justify-center flex text-xl">
+          <p className=" font-bold  dark:text-gray-400 text-black mb-4 justify-center flex lg:text-xl">
             CV Layanan Ambulance Jogja
           </p>
           <p className=" font-normal  dark:text-gray-400 text-black mb-4">
