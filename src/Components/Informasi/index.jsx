@@ -2,7 +2,7 @@ import React from "react";
 
 const Informasi = () => {
   return (
-    <div className="flex flex-col justify-center text-4xl font-bold  p-12  ">
+    <div className="flex flex-col justify-center text-4xl font-bold lg:p-12 p-0  ">
       <h1 className="flex  justify-center mb-8 text-black">INFORMASI</h1>
       <div className=" rounded-2xl ">
         <iframe

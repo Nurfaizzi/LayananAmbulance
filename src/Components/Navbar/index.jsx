@@ -17,8 +17,8 @@ const Navbar = () => {
         data-aos="fade-down"
         className="bg-blue-900 border-gray-200 dark:bg-gray-900 px-6 sm:px-0 md:px-0 lg:px-0"
       >
-        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-          <h1 className="flex text-red-600 font-bold text-2xl gap-1">
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-2 lg:p-4">
+          <h1 className="flex text-red-600 font-bold text-2xl gap-1 ">
             <h1 className="text-white font-bold text-2xl">Layanan</h1>Ambulance
             <h1 className="text-white font-bold text-2xl">Jogja</h1>
           </h1>

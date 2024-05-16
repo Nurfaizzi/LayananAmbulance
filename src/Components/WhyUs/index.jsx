@@ -37,7 +37,7 @@ const WhyUs = () => {
       </h1>
       <div
         data-aos="zoom-in-down"
-        className="   mx-auto justify-center grid grid-flow-row gap-4 lg:p-4 p-0 md:p-4 sm:p-4 text-neutral-600 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 "
+        className="   mx-auto justify-center grid grid-flow-row gap-4 lg:p-4 p-4 md:p-4 sm:p-4 text-neutral-600 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 "
       >
         {items.map((items, i) => (
           <div
