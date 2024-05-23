@@ -33,7 +33,7 @@ const WhyUs = () => {
   return (
     <div>
       <h1 className="flex justify-center lg:py-16 py-8 lg:font-bold md:font-bold font-bold sm:font-bold ">
-        Mengapa Memilih Layanan Ambulance Jogja ?{" "}
+        Mengapa Harus Memilih Djogja Ambulance Service ?{" "}
       </h1>
       <div
         data-aos="zoom-in-down"
